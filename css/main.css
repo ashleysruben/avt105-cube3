@@ -2,7 +2,7 @@ body{
   perspective-origin:50% -100%;
   perspective: 1500px;
   overflow:hidden;
-  background:indigo;
+  background:black;
 }
 .cube {
   position:relative;
@@ -18,7 +18,7 @@ body{
   width: 20%;height:100%;
   margin: 0 auto;
   transform-style: inherit;
-  background: #C52329;
+  background: black;
   box-shadow:inset 0 0 0 5px white;
   transform-origin:50% 50%;
   transform: rotateX(90deg);
