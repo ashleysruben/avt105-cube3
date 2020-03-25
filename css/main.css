@@ -2,7 +2,7 @@ body{
   perspective-origin:50% -100%;
   perspective: 1500px;
   overflow:hidden;
-  background:#333;
+  background:indigo;
 }
 .cube {
   position:relative;
